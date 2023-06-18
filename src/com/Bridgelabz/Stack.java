@@ -1,7 +1,8 @@
 package com.Bridgelabz;
 import java.util.LinkedList;
 
-public class Stack<T> {
+public class Stack<T>
+{
     private LinkedList<T> stack;
 
     public Stack() {
